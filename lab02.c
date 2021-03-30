@@ -7,16 +7,16 @@ int main() {
     scanf("%d%d",&a,&b);    
     // addition of two numbers
     sum=a+b;
-    printf("result is %d\n",sum);
+    printf("addition of two numbers is %d\n",sum);
     //subtraction of two number
     sub=a-b;
-    printf("result is %d\n",sub);
+    printf("subtraction of two numbers is %d\n",sub);
     //division of two numbers
     div=a/b;
-    printf("result is %d\n",div);
+    printf("division of two numbers is %d\n",div);
     //multiplication of two numbers
     mul=a*b;
-    printf("result is %d\n",mul);
+    printf("multiplication of two numbers is %d\n",mul);
 
     return 0;
 }
